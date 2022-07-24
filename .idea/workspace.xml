@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959b8f96-1362-4154-b041-b0a31e5e521e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/googleTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/googleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/googleTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\nasty\Desktop\Тест\Тема 18. Автоматизация в тестировании. Selenium\project\test2022\untitled\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.googleTests.test1">
     <configuration name="googleTests.test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -80,8 +80,25 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="googleTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.googleTests.test1" />
         <item itemvalue="Gradle.googleTests.test1" />
       </list>
     </recent_temporary>
@@ -94,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658650624360</updated>
-      <workItem from="1658650627944" duration="1629000" />
+      <workItem from="1658650627944" duration="5558000" />
     </task>
     <task id="LOCAL-00001" summary="Заготовка проекта">
       <created>1658651206070</created>
@@ -103,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658651206071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлена рыба первого теста">
+      <created>1658652343425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658652343425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Заготовка проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Заготовка проекта" />
+    <MESSAGE value="Добавлена рыба первого теста" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена рыба первого теста" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
